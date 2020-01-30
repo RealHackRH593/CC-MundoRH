@@ -2,6 +2,7 @@
 
 clear
 git clone https://github.com/REAL593/module
+clear
 cd module
 cat baner.txt | lolcat
 python3 acceso.py
