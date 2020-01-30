@@ -26,6 +26,8 @@ pkg install cat
 
 ++++++++MODO DE USO++++++++
 
+git clone https://github.com/RealHackRH593/CC-MundoRH.git
+
 bash requirement.sh
 
 chmod +x *
