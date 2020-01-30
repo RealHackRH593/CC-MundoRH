@@ -1,6 +1,7 @@
 #!/system/xbin/bash
 
 clear
+git clone https://github.com/REAL593/module
 cd module
 cat baner.txt | lolcat
 python3 acceso.py
